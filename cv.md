@@ -1,28 +1,56 @@
-#*Арзамасова Анастасия Витальевна*  
-*Адрес:* г. Санкт-Петербург
-*Телефон:* 8-981-198-30-06
-*E-mail:* asya1003@yandex.ru 
-*Дата рождения:* 10.03 1990  
-##*Образование:*  
-Среднее 1997-2007 гг. Лингвистический лицей №25\
-Оконченное высшее 2007-2011 гг. ИжГТУ, факультет: Менеджмент и Маркетинг, специальность: бакалавр экономики\
-Оконченное высшее 2009-2011 гг. ИжГТУ, Институт переводчиков в сфере профессиональной коммуникации, специальность: переводчик (английский язык)\
-Оконченное высшее 2011- 2013 ИжГТУ, магистр экономики\
-Курсы «Английский+ Бизнес и финансы»  20.04.14-19.05.14 Kings College, London\
-##*Опыт работы:*\
-12.09.2011 – 03.11.2014 -менеджер по ипотечному кредитованию в ОАО Сбербанк России\
-04.11.2014- 20.10.2016 – кредитный аналитик отдела кредитования малого бизнеса ПАО Сбербанк\
-21.10.2016 - 31.10.2019 - менеджер по продаже ипотечных кредитов ПАО Сбербанк\
+**##PERSONAL INFORMATION##**
+	**ARZAMASOVA ANASTASIIA**\
+	**Place of living:** Russia, Saint-Petersburg\
+	**Phone number:** +7(981)1983006\
+	**Email:**avarzamasova@gmail.com\
+	**Date of birth:** 10.03.1990\
+	**Marital status:** married
 
-##*Личные качества:*\
-Своими основными качествами считаю исполнительность, целеустремленность, ответственность, порядочность, пунктуальность, доброжелательность, хорошую обучаемость, коммуникабельность,     творческий подход к делу, высокая трудоспособность и стрессоустойчивость.\
+**##OBJECTIVE##**\
+Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.
 
-##*Профессиональные умения и навыки:*\
-Профессиональный опыт общения с людьми (разрешение конфликтных ситуаций, а так же юридическое консультирование).\
-Работа с клиентами: способность изучить клиента и понять что ему нужно.\
-Способность моментально реагировать на изменение ситуации.\ 
-Знание оргтехники: телефон, факс, принтер, сканер, копир.\
-Уверенный пользователь ПК, программы: MS Word, MS Exсel, Internet, электронная почта.\
-Знание языков: Английский язык – продвинутый (понимаю общее содержание сложных текстов на абстрактные и конкретные темы. Говорю достаточно быстро и спонтанно, чтобы постоянно общаться с носителями языка без особых затруднений для любой из сторон.)\
-Испанский, немецкий – средний (понимаю общее содержание текстов и говорю на простые темы, Могу выполнить задачи, связанные с простым обменом информации на знакомые или бытовые темы.)\
-\
+**##WORK EXPERIENCE##**\
+     -Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK\
+     -Nov. 2014 - Okt. 2016	Credit analyst, SBERBANK\
+     -Okt. 2016 - present	Manager mortgage lending, SBERBANK
+
+**##EDUCATION AND TRAINING##**
+	
+	Sep. 2006 - July 2011	bachelor of Economics, faculty of Management and marketing"\
+	Izhevsk State Technical University. M. T. Kalashnikov\
+	Izhevsk, Russia
+
+	Sep. 2009 - May 2011	Institute of translators in the field of professional communication,
+	specialty: translator (English)\
+	Izhevsk State Technical University\
+	Izhevsk, Russia
+
+	Sep. 2011 - June 2013	master of economics\
+	Izhevsk State Technical University\
+	Izhevsk, Russia
+
+	Apr. 2014 - May 2014	language courses (business English)\
+	Kings College\
+	London, United Kingdom
+
+
+**##SKILLS##**
+    **Personal skills:** ability to learn quickly; responsibility; attention to detail; diligence; ability to quickly learn foreign languages; activity and independence in solving tasks; stress resistance; ability to smooth out conflict situations; creativity and sociability.\
+
+    **Foreign language(s):**	Russian-native\
+	English-B2 UpperIntermediate (CAE certificate from 2014)\
+	German-listening comprehension and reading B2, writing and speaking B2\
+	Spanish-beginner level
+
+    **Digital skills:** Pascal, MS Word, MS Excel, Internet, email
+
+    **Communication skills:**\
+        - Professional experience of communication with people (conflict resolution).\
+	- Ability to study the client and understand what he needs.\
+	- The ability to instantly respond to a change in the situation.
+
+
+
+
+
+
