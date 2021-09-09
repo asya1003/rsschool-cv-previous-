@@ -10,9 +10,9 @@
 Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.
 
 ## **WORK EXPERIENCE**
-     -Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK\
-     -Nov. 2014 - Okt. 2016	Credit analyst, SBERBANK\
-     -Okt. 2016 - present	Manager mortgage lending, SBERBANK
+   -Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK\
+   -Nov. 2014 - Okt. 2016	Credit analyst, SBERBANK\
+   -Okt. 2016 - present	Manager mortgage lending, SBERBANK
 
 ## **EDUCATION AND TRAINING**
 	
