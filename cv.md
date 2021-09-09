@@ -1,20 +1,20 @@
-## **PERSONAL INFORMATION**\
-	**ARZAMASOVA ANASTASIIA**\
-	**Place of living:** Russia, Saint-Petersburg\
-	**Phone number:** +7(981)1983006\
-	**Email:** avarzamasova@gmail.com\
-	**Date of birth:** 10.03.1990\
-	**Marital status:** married
+## **PERSONAL INFORMATION**
+   **ARZAMASOVA ANASTASIIA**\
+   **Place of living:** Russia, Saint-Petersburg\
+   **Phone number:** +7(981)1983006\
+   **Email:** avarzamasova@gmail.com\
+   **Date of birth:** 10.03.1990\
+   **Marital status:** married
 
-**##OBJECTIVE##**\
+## **OBJECTIVE**
 Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.
 
-**##WORK EXPERIENCE##**\
+## **WORK EXPERIENCE**
      -Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK\
      -Nov. 2014 - Okt. 2016	Credit analyst, SBERBANK\
      -Okt. 2016 - present	Manager mortgage lending, SBERBANK
 
-**##EDUCATION AND TRAINING##**
+## **EDUCATION AND TRAINING**
 	
    Sep. 2006 - July 2011	bachelor of Economics, faculty of Management and marketing"\
    Izhevsk State Technical University. M. T. Kalashnikov\
@@ -33,7 +33,7 @@ Getting a responsible and promising job that brings moral and material satisfact
    London, United Kingdom
 
 
-## **SKILLS**\
+## **SKILLS**
    **Personal skills:** ability to learn quickly; responsibility; attention to detail; diligence; ability to quickly learn foreign languages; activity and independence in solving tasks; stress resistance; ability to smooth out conflict situations; creativity and sociability.\
 
    **Foreign language(s):**	Russian-native\
