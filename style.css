@@ -2,7 +2,7 @@
    background-color:#EAFAF1;
    color: black;
    text-align: left;
-   margin: 30px;
+   margin: 30px 0 30px 30px;
    padding: 10px 0 10px 30px;
  }
  
@@ -28,7 +28,7 @@
    position: relative;
    left: 300px;
  }
- 
+
  .subtitle {
      font-weight: bold;
    text-align: center;
