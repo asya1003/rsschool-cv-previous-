@@ -1,0 +1,36 @@
+.content {
+   background-color:#EAFAF1;
+   color: black;
+   text-align: left;
+   margin: 30px;
+   padding: 10px 0 10px 30px;
+ }
+ 
+ img {
+ width: 200px;
+ height: 200px;
+ border-radius: 50%;
+  }
+ 
+ body {
+   font-family: Arial, serif;
+   background-color:#ABEBC6;
+   color: black;
+   text-align: left;
+  }
+
+ .title {
+   position: relative;
+   top: 40px;
+       }
+
+ .title_name {
+   position: relative;
+   left: 300px;
+ }
+ 
+ .subtitle {
+     font-weight: bold;
+   text-align: center;
+   };
+ 
