@@ -1,6 +1,15 @@
-<h2>PERSONAL INFORMATION</h2>
-<p class = "subtitle"> ARZAMASOVA ANASTASIIA </p>
- <p> <b>Place of living:</b> Russia, Saint-Petersburg 
+<header>
+    <div class = "subtitle"> 
+      <h2> <img src="/image.jpg" alt="Мое фото" width="320" height="240">  ARZAMASOVA ANASTASIIA </h2>
+    </div>
+</header>
+
+<hr>
+
+<div class="content">
+<h3>PERSONAL INFORMATION</h3>
+
+  <b>Place of living:</b> Russia, Saint-Petersburg 
   <br>
   <b>Phone number:</b> +7(981)1983006
   <br>
@@ -8,14 +17,12 @@
   <br>
   <b>Date of birth:</b> 10.03.1990
   <br>
-  <b>Marital status:</b> married </p>
+  <b>Marital status:</b> married
 
-<h2>OBJECTIVE</h2>
-
+<h3>OBJECTIVE</h3>
 <p> Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.</p>
 
-<h2>WORK EXPERIENCE</h2>
-
+<h3>WORK EXPERIENCE</h3>
   <p> 
     <ul>
       <li> Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK</li>
@@ -24,8 +31,7 @@
    </ul>  
 </p>
 
-<h2>EDUCATION AND TRAINING</h2>
-
+<h3>EDUCATION AND TRAINING</h3>
 	<p> Sep. 2006 - July 2011	bachelor of Economics, faculty of Management and marketing" <br>
    Izhevsk State Technical University. M. T. Kalashnikov<br>
     Izhevsk, Russia </p>
@@ -42,8 +48,7 @@
    Kings College <br>
    London, United Kingdom </p>
 
-<h2>SKILLS</h2>
-
+<h3>SKILLS</h3>
 <p> <span class = "subtitle">Personal skills:</span> ability to learn quickly; responsibility; attention to detail; diligence; ability to quickly learn foreign languages; activity and independence in solving tasks; stress resistance; ability to smooth out conflict situations; creativity and sociability.</p>
 
  <p> <span class = "subtitle">Foreign language(s):</span>	Russian-native\
@@ -60,3 +65,25 @@
      <li>The ability to instantly respond to a change in the situation.</li>
   </ul>
  </p>
+
+<h3> CODE EXAMPLE</h3>
+
+<p>Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word. For simplicity, you'll have to capitalize each word, check out how contractions are expected to be in the example below.</p>
+
+<p> Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.</p>
+
+<p>Example:
+<code>
+<pre> Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
+Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real" </pre>
+ </code>
+</p>
+<p> My solution:
+<code>
+<pre>string = "how can mirrors be real if our eyes aren't real";
+newstring = string.replace(/(^\w|\s\w)/g, m => m.toUpperCase());;
+console.log(newstring);
+</pre>
+</code>
+</p>
+</div>
