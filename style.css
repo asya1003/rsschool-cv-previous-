@@ -13,13 +13,24 @@
   }
  
  body {
-   font-family: Arial, san-serif;
+   font-family: Arial, serif;
    background-color:#ABEBC6;
    color: black;
    text-align: left;
   }
 
+ .title {
+   position: relative;
+   top: 40px;
+       }
+
+ .title_name {
+   position: relative;
+   left: 300px;
+ }
+ 
  .subtitle {
      font-weight: bold;
    text-align: center;
    };
+ 

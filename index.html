@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+
 <header>
     <div class = "subtitle"> 
       <h2> <img src="C:\rss\rsschool-cv\image.jpg" alt="Мое фото" width="320" height="240">  ARZAMASOVA ANASTASIIA </h2>
@@ -7,37 +11,41 @@
 <hr>
 
 <div class="content">
-        <h3>PERSONAL INFORMATION</h3>
-  
+<section class="title"> <h3>PERSONAL INFORMATION</h3>
+  </section>
 
-      <b>Place of living:</b> Russia, Saint-Petersburg 
-      <br>
-      <b>Phone number:</b> +7(981)1983006
-      <br>
-      <b>Email:</b> avarzamasova@gmail.com
-      <br>
-      <b>Date of birth:</b> 10.03.1990
-      <br>
-      <b>Marital status:</b> married
-  
-
-        <h3>OBJECTIVE</h3>
-  
-     <p> Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.
+  <section class ="title_name"> <b>Place of living:</b> Russia, Saint-Petersburg 
+  <br>
+  <b>Phone number:</b> +7(981)1983006
+  <br>
+  <b>Email:</b> avarzamasova@gmail.com
+  <br>
+  <b>Date of birth:</b> 10.03.1990
+  <br>
+  <b>Marital status:</b> married
+  </section>
+  <section class="title"> <h3>OBJECTIVE</h3>
+  </section>
+<section class ="title_name"> <p> Getting a responsible and promising job that brings moral and material satisfaction, as well as career prospects.
 </p>
-  
-      <h3>WORK EXPERIENCE</h3>
-  
-      <p> 
+  </section>
+
+ <section class="title"> <h3>WORK EXPERIENCE</h3>
+  </section>
+  <section class ="title_name">
+    <p> 
     <ul>
       <li> Sep. 2011 - Nov. 2014 	Sales manager, SBERBANK</li>
       <li> Nov. 2014 - Okt. 2016	Credit analyst, SBERBANK</li>
       <li> Okt. 2016 - present	Manager mortgage lending, SBERBANK</li>
    </ul>  
 </p>
-  
-    <h3>EDUCATION AND TRAINING</h3>
+  </section>
 
+<section class="title"> <h3>EDUCATION AND TRAINING</h3>
+</section>
+
+<section class ="title_name">
     <p> Sep. 2006 - July 2011	bachelor of Economics, faculty of Management and marketing" <br>
    Izhevsk State Technical University. M. T. Kalashnikov<br>
     Izhevsk, Russia </p>
@@ -53,12 +61,14 @@
  <p> Apr. 2014 - May 2014	language courses (business English) <br>
    Kings College <br>
    London, United Kingdom </p>
+</section>
 
-    <h3>SKILLS</h3>
- 
+<section class="title"> <h3>SKILLS</h3>
+  </section>
+<section class ="title_name">
   <p> <span class = "subtitle">Personal skills:</span> ability to learn quickly; responsibility; attention to detail; diligence; ability to quickly learn foreign languages; activity and independence in solving tasks; stress resistance; ability to smooth out conflict situations; creativity and sociability.</p>
 
-  <p> <span class = "subtitle">Foreign language(s):</span>	Russian-native\
+ <p> <span class = "subtitle">Foreign language(s):</span>	Russian-native\
 	English-B2 UpperIntermediate (CAE certificate from 2014) <br>
 	German-listening comprehension and reading B2, writing and speaking B2<br>
 	Spanish-beginner level</p>
@@ -72,27 +82,32 @@
      <li>The ability to instantly respond to a change in the situation.</li>
   </ul>
  </p>
+</section>
 
-    <h3> CODE EXAMPLE</h3> 
+<section class="title"> <h3> CODE EXAMPLE</h3> 
+</section>
 
-    
+<section class ="title_name">
   <p>Jaden Smith, the son of Will Smith, is the star of films such as The Karate Kid (2010) and After Earth (2013). Jaden is also known for some of his philosophy that he delivers via Twitter. When writing on Twitter, he is known for almost always capitalizing every word. For simplicity, you'll have to capitalize each word, check out how contractions are expected to be in the example below.</p>
 
-  <p> Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.</p>
+<p> Your task is to convert strings to how they would be written by Jaden Smith. The strings are actual quotes from Jaden Smith, but they are not capitalized in the same way he originally typed them.</p>
 
-  <p>Example:
-    <code>
+<p>Example:
+<code>
 <pre> Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real" </pre>
  </code>
-   </p>
-
-   <p> My solution:
-     <code>
+</p>
+<p> My solution:
+<code>
 <pre>string = "how can mirrors be real if our eyes aren't real";
 newstring = string.replace(/(^\w|\s\w)/g, m => m.toUpperCase());;
 console.log(newstring);
 </pre>
-    </code>
-   </p>
+</code>
+</p>
+</section>
 </div>
+
+
+
